@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #f5f5f5;
+    flex-direction: row;
+
+}
+.cards {
+    display: flex;
+     flex-direction: row;
+    
+ }
+nav{
+    background-color:  #011e29;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+div.card1{
+    background-color: white;
+    width: fit-content;
+    height: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+div.card2{
+    background-color: white;
+    width: 30%;
+    height: 150px;
+    border-radius: 10px;
+    margin:10px;
+}
+div.card3{
+    background-color: white;
+    width: 20%;
+    height: 50%;
+    border-radius: 10px;
+    padding: 40px;
+    margin:10px;
+}
