@@ -14,21 +14,21 @@ header{
     text-align: center;
     height: 40px;
 }
-section.card1{
+section.latest-news-section{
     background-color: white;
     width: fit-content;
     height: 150px;
     border-radius: 10px;
     margin: 10px;
 }
-section.card2{
+section.hero-section{
     background-color: white;
     width: 30%;
     height: 150px;
     border-radius: 10px;
     margin:10px;
 }
-section.card3{
+section.pictorial-news-section{
     background-color: white;
     width: 20%;
     height: 50%;
